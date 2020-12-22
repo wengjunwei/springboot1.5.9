@@ -1,0 +1,47 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.wjw.pojo.Person",
+      "name": "person",
+      "type": "com.wjw.pojo.Person"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.wjw.pojo.Person",
+      "name": "person.age",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.wjw.pojo.Person",
+      "name": "person.birth",
+      "type": "java.util.Date"
+    },
+    {
+      "sourceType": "com.wjw.pojo.Person",
+      "name": "person.boss",
+      "type": "java.lang.Boolean"
+    },
+    {
+      "sourceType": "com.wjw.pojo.Person",
+      "name": "person.dog",
+      "type": "com.wjw.pojo.Dog"
+    },
+    {
+      "sourceType": "com.wjw.pojo.Person",
+      "name": "person.last-name",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.wjw.pojo.Person",
+      "name": "person.list",
+      "type": "java.util.List<java.lang.Object>"
+    },
+    {
+      "sourceType": "com.wjw.pojo.Person",
+      "name": "person.map",
+      "type": "java.util.Map<java.lang.String,java.lang.Object>"
+    }
+  ]
+}
